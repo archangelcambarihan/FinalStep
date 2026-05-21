@@ -23,6 +23,9 @@ Archangel Cambarihan - team, storyline, item
 USE CASE DIAGRAM
 ![Use Case Diagram](USE_CASE_DIAGRAM.png)
 
+
+CLASS CASE DIAGRAM
+
 ![Class Case Diagram](CLASS_CASE_DIAGRAM.png)
 
 
