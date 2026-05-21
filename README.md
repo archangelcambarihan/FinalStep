@@ -23,4 +23,4 @@ Archangel Cambarihan - team, storyline, item
 USE CASE DIAGRAM
 ![Use Case Diagram](kerbyswork.png)
 
-![](andreswork.png)
+
