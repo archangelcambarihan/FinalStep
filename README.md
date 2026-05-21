@@ -1,4 +1,5 @@
 The NextStep
+
 A turn-based trivia game where you fight off zombies by answering questions. Simple concept, but it gets intense fast.
 
 ABOUT
@@ -9,10 +10,17 @@ We built this to keep things straightforward. The mechanics are easy to follow, 
 The goal was never to make something overly complex — just something fun that clearly shows how a turn-based system works.
 
 The Team Name
-Role
+
+(Role)
 Kerby Abistado - Battlesystem, Tess, Main
+
 Andre Bermudo - mah, rey, character
+
 Ivanne Zhyre Navarro - Zombie,Util, inventory
+
 Archangel Cambarihan - team, storyline, item
 
-![Use CaseDiagram](assets/kerbyswork.png)
+USE CASE DIAGRAM
+![Use Case Diagram](kerbyswork.png)
+
+![](andreswork.png)
