@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Keep src and all its contents
+!src/
+!src/**
+
+# Keep resources/character/charImage and all its contents
+!resources/
+!resources/character/
+!resources/character/charImage/
+!resources/character/charImage/**
