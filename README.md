@@ -15,3 +15,4 @@ Andre Bermudo - mah, rey, character
 Ivanne Zhyre Navarro - Zombie,Util, inventory
 Archangel Cambarihan - team, storyline, item
 
+![Use CaseDiagram](assets/kerbyswork.png)
