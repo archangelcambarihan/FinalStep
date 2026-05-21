@@ -21,6 +21,8 @@ Ivanne Zhyre Navarro - Zombie,Util, inventory
 Archangel Cambarihan - team, storyline, item
 
 USE CASE DIAGRAM
-![Use Case Diagram](kerbyswork.png)
+![Use Case Diagram](USE_CASE_DIAGRAM.png)
+
+![Class Case Diagram](CLASS_CASE_DIAGRAM.png)
 
 
